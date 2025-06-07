@@ -1,0 +1,7 @@
+__pycache__/
+*.json
+token.json
+client_secret.json
+.env
+downloads/
+config_cli.py

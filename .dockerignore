@@ -1,0 +1,9 @@
+main_cli.py
+config_cli.py
+__pycache__/
+*.json
+token.json
+client_secret.json
+.env
+downloads/
+.gitignore
